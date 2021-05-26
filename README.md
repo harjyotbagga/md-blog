@@ -1,4 +1,4 @@
-# A Markdown Blog Webpage
+# MD-Blog - A Markdown Blog
 A blog-website with markdown support.
 
 ## Installation
@@ -18,8 +18,6 @@ A blog-website with markdown support.
     ```
     docker build -t <your username>/md-blog .
     ```
-
-
 4. Run the server
     ```
     npm start
